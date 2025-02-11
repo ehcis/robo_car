@@ -10,7 +10,8 @@ Arduino Board and Motor Shield
 Adafruit Color Line Sensor
 QRE1113 Line Sensor
 
-
+Robot Result:
+https://www.youtube.com/watch?v=Jxsztcj6GLM
 
 
 
