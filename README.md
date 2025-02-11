@@ -5,10 +5,10 @@ An autonomous traveling robot car that must be able to travel along a certain tr
 
 Products Used:
 Arduino Software
-\t Robot Chasis
-\t Arduino Board and Motor Shield
-\t Adafruit Color Line Sensor
-\t QRE1113 Line Sensor
+\n Robot Chasis
+\n Arduino Board and Motor Shield
+\n Adafruit Color Line Sensor
+\n QRE1113 Line Sensor
 
 Robot Result:
 https://www.youtube.com/watch?v=Jxsztcj6GLM
